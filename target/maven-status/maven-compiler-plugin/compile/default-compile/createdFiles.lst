@@ -1,0 +1,14 @@
+pages\CreateAcountForMyselfPage.class
+base\TestBase.class
+base\TestBaseGCR.class
+pages\CartPage.class
+pages\GmailInboxPage.class
+pages\EnterUsernamePage.class
+pages\GCRLoginPage.class
+extentReportListener\ExtentReporterNG.class
+util\TestUtil.class
+pages\EnterPasswordPage.class
+pages\GCRCreateAccountPAge.class
+pages\AccountRecoveryPage.class
+pages\GCRCatalogPage.class
+util\WebEventListener.class

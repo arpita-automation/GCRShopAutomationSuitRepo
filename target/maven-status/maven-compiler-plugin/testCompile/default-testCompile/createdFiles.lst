@@ -1,0 +1,5 @@
+testCases\GCRLoginPageTest.class
+testCases\GCRCatalogPageTest.class
+testCases\EnterUserNameTest.class
+testCases\EnterPasswordTest.class
+testCases\GCRCreateNewAccountTest.class
